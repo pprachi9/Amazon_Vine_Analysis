@@ -26,5 +26,5 @@ I have chosen Video Games Data from Amazon reviews for this project and utilized
 From the analysis, it can be concluded that there is a possibility of bias as 51% of the Amazon reviews that were a part of the Vine program who gave 5-star rating, compared to only 39% of the Amzon reviews who were not a part of the Vine program also gave 5-star ratings. 
 
 ## Resources
-Data Source: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz
-Sofware: Python, PostgreSQL, pgAdmin, Google Colab Notebook, AWS
+- Data Source: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz
+- Sofware: Python, PostgreSQL, pgAdmin, Google Colab Notebook, AWS
